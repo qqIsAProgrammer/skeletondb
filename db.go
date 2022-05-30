@@ -21,7 +21,7 @@ type DB struct {
 	closed chan struct{}
 	config Config
 
-	// largetPageID is automatically incremented when a new page is created.
+	// largestPageID is automatically incremented when a new page is created.
 	largestPageID int64
 	pageIDPool    chan pageID
 

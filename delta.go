@@ -9,7 +9,7 @@ import (
 type delta struct {
 	key  *key
 	page *page
-	next *delta
+	next *delta // version chain
 }
 
 type unsafeDelta struct {

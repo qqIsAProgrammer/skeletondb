@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 github.com/d4l3k/skeletondb v0.0.0-20161213223325-46e567e7acd7 h1:PTuZqU8EwkWvwWF12+KJmxaal21oGstMdq2JZeVpg6I=
 github.com/d4l3k/skeletondb v0.0.0-20161213223325-46e567e7acd7/go.mod h1:2XfLosi5YM/Uww28yK9Pm0llIwo7SFzSb6qI3nSv/UA=
+=======
+>>>>>>> make some modifications
 github.com/fortytw2/leaktest v1.3.0 h1:u8491cBMTQ8ft8aeV+adlcytMZylmA5nnwwkRZjI8vw=
 github.com/fortytw2/leaktest v1.3.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
 github.com/jpillora/backoff v1.0.0 h1:uvFg412JmmHBHw7iwprIxkPMI+sGQ4kzOWsMeHnm2EA=

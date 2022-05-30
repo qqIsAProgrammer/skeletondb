@@ -2,11 +2,10 @@ package skeleton_test
 
 import (
 	"math/rand"
+	skeleton "skeletondb"
 	"strconv"
 	"sync"
 	"testing"
-
-	skeleton "github.com/d4l3k/skeletondb"
 )
 
 func intToKey(i int) []byte {
